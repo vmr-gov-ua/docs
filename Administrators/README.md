@@ -1,5 +1,7 @@
 # Administrators Manual
 
+[Документайція адміністратора] (https://docs.vmr.gov.ua/Administrators/)
+
 ## Версії документа 
 
 ---
