@@ -8,7 +8,7 @@
 
 Варіант 2:
 
-<steven13@vmr.gov.ua?subject=/>
+steven13@vmr.gov.ua?subject=>
 
 l1 
 [L1]
