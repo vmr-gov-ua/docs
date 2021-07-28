@@ -3,10 +3,8 @@
 [docs.vmr.gov.ua](https://docs.vmr.gov.ua)
 
 Документація по сайту ВМР
-[id]: /
-[l2]: https://docs.vmr.gov.ua
 
-ропозиції та зауваження надсилати: [email](mailto:steven13@vmr.gov.ua?subject=)
+Gропозиції та зауваження надсилати: [email](mailto:steven13@vmr.gov.ua?subject=)
  
  test
  
@@ -27,4 +25,4 @@ First Header  | Second Header | Third Header
 [23]: http://www.a-big-long-big-big-long-hyperlink/more-long-stuff?id=23
 [31]: http://www.a-big-long-big-big-long-hyperlink/more-long-stuff?id=31
 [32]: http://www.a-big-long-big-big-long-hyperlink/more-long-stuff?id=32
-[33]: http://www.a-big-long-big-big-long-hyperlink/more-long-stuff?id=33
+[33]: /
