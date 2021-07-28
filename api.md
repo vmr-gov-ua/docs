@@ -101,19 +101,20 @@ picture | Фото новини(посилання)
 title | Заголовок анонсу
 description | Короткий опис анонсу
 content | Текст анонсу
-    published_at | Дата публікації
-    tags | Теги анонсу
-    link | Посилання на анонс на сайті
-    startdate | Дата початку
-    enddate | Дата завершення
-    picture | Фото анонсу(посилання)
-    address_type | Тип вулиці  
-    address_name | Адреса
-    address_building | Номер будинку
-    registration_link | Посилання на реєстрацію
-
-    Для отримання оповіщень виконується запит наступного виду:
+published_at | Дата публікації
+tags | Теги анонсу
+link | Посилання на анонс на сайті
+startdate | Дата початку
+enddate | Дата завершення
+picture | Фото анонсу(посилання)
+address_type | Тип вулиці  
+address_name | Адреса
+address_building | Номер будинку
+registration_link | Посилання на реєстрацію
 ---
+
+Для отримання оповіщень виконується запит наступного виду:
+
 ```
     GET 
     https://{host}/api/notifications
