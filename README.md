@@ -8,7 +8,7 @@
 
 Варіант 2:
 
-[L3]: steven13@vmr.gov.ua?subject=[L1]
+[L3]: (steven13@vmr.gov.ua?subject=)[L1]
 
 l1 
 [L1]
