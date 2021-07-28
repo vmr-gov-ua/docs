@@ -1,3 +1,5 @@
 {
-    "markdown.showToolbar": true
+    "markdown.showToolbar": true,
+    "markdown.allAvailableLanguages": true,
+    "markdown.previewFeatures": true
 }
