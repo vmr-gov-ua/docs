@@ -28,6 +28,9 @@ link
 
 
 [foo]: /url1
+
+http://../
+
 [foo]: /url2
 
 [foo][]
