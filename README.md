@@ -10,6 +10,5 @@
  
  test
  
-[email](mailto:steven13@vmr.gov.ua?subject=(url))
 [link](/uri)
-[foo<http://example.com/?search=](uri)>]
+
