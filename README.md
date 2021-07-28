@@ -6,7 +6,7 @@
 +
 
 
-Пропозиції та зауваження надсилати: [email](mailto:steven13@vmr.gov.ua?subject=https://docs.vmr.gov.ua/)
+Пропозиції та зауваження надсилати: [email](mailto:steven13@vmr.gov.ua?subject=[link](/))
  
  test
  
