@@ -5,7 +5,7 @@
 Документація по сайту ВМР
 [email](mailto:steven13@vmr.gov.ua?subject=</>)
 Пропозиції та зауваження надсилати: [email](mailto:steven13@vmr.gov.ua?subject=<L2>)
-
+<steven13@vmr.gov.ua?subject=/>
 
 l1 
 [L1]
