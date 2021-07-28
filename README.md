@@ -4,7 +4,7 @@
 
 Документація по сайту ВМР
 
-Gропозиції та зауваження надсилати: [email](mailto:steven13@vmr.gov.ua?subject=)
+Пропозиції та зауваження надсилати: [email](mailto:steven13@vmr.gov.ua?subject=[33])
  
  test
  
