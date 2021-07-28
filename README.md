@@ -7,6 +7,6 @@
 
 
 Пропозиції та зауваження надсилати: [email](mailto:steven13@vmr.gov.ua?subject=https://docs.vmr.gov.ua/)
- [email](mailto:steven13@vmr.gov.ua?subject=(uri))
+ [email](mailto:steven13@vmr.gov.ua?subject=(url))
 
 [foo<http://example.com/?search=](uri)>]
