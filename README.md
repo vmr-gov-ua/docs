@@ -17,9 +17,17 @@ l3
 [L3]
 
 
-[L3]: [L2]test
+[L3]: [L2]+[l1]
  
+ 
+link
 [link](/)
 
 [L1]: /
 [L2]: mailto:steven13@vmr.gov.ua?subject=
+
+
+[foo]: /url1
+[foo]: /url2
+
+[foo][]
