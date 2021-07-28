@@ -24,7 +24,7 @@ link
 [link](/)
 
 [L1]: /
-[L2]: mailto:steven13@vmr.gov.ua?subject=
+[L2]: "mailto:steven13@vmr.gov.ua?subject="/
 
 
 [foo]: /url1
