@@ -6,3 +6,7 @@
 
 
 Пропозиції та зауваження надсилати у [формі](https://forms.gle/no5a82WQeeLBkDBd8)
+
+
+
+Відеозапис конференції та інструкція з наповнення сайту розміщені за [посиланням](https://drive.google.com/drive/folders/1vxNdPGNhCKCb8g28nMzwHic48xQBBQK6?usp=sharing)
