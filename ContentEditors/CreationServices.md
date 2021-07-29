@@ -73,3 +73,6 @@ Navigation)»** - робота з віджетом описана у п. 4.6.7.
     > «![](assets\media/image85.png)».
 
 Зміни внесені та одразу з'являються на сайті.
+
+
+[Документація по сервісам](https://docs.vmr.gov.ua/ContentEditors/CreationServices/)
