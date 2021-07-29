@@ -5,9 +5,6 @@
 Сервіси - описані блоки інформації для задоволення потреб громадян.
 [Шаблон дизайну сервісу](https://projects.invisionapp.com/share/WFY7D2TXER5#/screens/432196262)
 
-Video
-
-<iframe "756" height="425" src="https://www.youtube.com/embed/syrGPPekLHQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 Для роботи із сервісами необхідно у списку «Типи вмісту» розділу «Вміст»
