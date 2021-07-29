@@ -3,6 +3,11 @@
 Сервіси - описані блоки інформації для задоволення потреб громадян.
 [Шаблон дизайну сервісу](https://projects.invisionapp.com/share/WFY7D2TXER5#/screens/432196262)
 
+Video
+
+<iframe width="560" height="315" src="https://youtu.be/syrGPPekLHQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 Для роботи із сервісами необхідно у списку «Типи вмісту» розділу «Вміст»
 обрати пункт «Список сервісів»:
 
