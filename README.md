@@ -5,7 +5,7 @@
 Документація по сайту ВМР
 
 Онлайн інструкція з наповнення сайту для: 
-[Редакторів](https://docs.vmr.gov.ua/ContentEditors/ContentEditor_Manual)
+[Редакторів (контент-менеджерів)](https://docs.vmr.gov.ua/ContentEditors/ContentEditor_Manual)
 
 
 Відповідно до інструкції відповідальні мають здійснювати наповнення нового сайту  [https://new.vmr.gov.ua](https://new.vmr.gov.ua)
