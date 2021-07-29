@@ -9,7 +9,7 @@
 
 Назва
 
-Теги - (посилання на теги та принципи тегування)
+Теги - (посилання на теги та принципи тегування) [Taxonomi](https://docs.vmr.gov.ua/Administrators/Administrator_Manual/#68-taxonomy)
 
 Дата створення та редагування
 
