@@ -7,6 +7,18 @@ Video
 
 <iframe width="560" height="315" src="https://youtu.be/syrGPPekLHQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+video 2
+
+<object width="425" height="350">
+  <param name="movie" value="http://www.youtube.com/user/wwwLoveWatercom?v=BTRN1YETpyg" />
+  <param name="wmode" value="transparent" />
+  <embed src="http://www.youtube.com/user/wwwLoveWatercom?v=BTRN1YETpyg"
+         type="application/x-shockwave-flash"
+         wmode="transparent" width="425" height="350" />
+</object>
+
+
+
 
 Для роботи із сервісами необхідно у списку «Типи вмісту» розділу «Вміст»
 обрати пункт «Список сервісів»:
