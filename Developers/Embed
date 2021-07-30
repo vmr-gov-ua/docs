@@ -1,4 +1,6 @@
-#DIV
+#Як вбудувати відео
+
+##DIV
 
 <div style="width: 100%; height: auto; float: none; clear: both; margin: 2px auto;">
   <embed
@@ -13,7 +15,7 @@
   >
 </div>
 
-#Object
+##Object
 
 <object
   style=" width: 100%; height: auto; float: none; clear: both; margin: 2px auto;"
