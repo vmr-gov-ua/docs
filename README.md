@@ -22,8 +22,8 @@
 &nbsp;
 
 
-Варто почитати про Markdown:
-[Путівник по Markdown](https://markdown.rozh2sch.org.ua)
+> Варто почитати про Markdown:
+> [Путівник по Markdown](https://markdown.rozh2sch.org.ua)
 
 > Коротке навчальне відео з markdown:
 
