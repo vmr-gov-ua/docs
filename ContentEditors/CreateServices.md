@@ -8,7 +8,7 @@
 ![](assets/media/123.jpg)
 
 Сервіс складається з таких блоків:
-![](assets/media/123.jpg =80x120)
+![](assets/media/123.jpg "AI" =80x120)
 Назва
 
 Теги - (посилання на теги та принципи тегування) [Taxonomi](https://docs.vmr.gov.ua/Administrators/Administrator_Manual/#68-taxonomy)
