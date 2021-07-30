@@ -17,10 +17,17 @@
 
 Назва
 
-
-<div class="responsive-video"><iframe width="100%"  height= width src="https://www.youtube.com/embed/wgbV6DLVezo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
-
+<div style="width: 560px; height: 315px; float: none; clear: both; margin: 2px auto;">
+  <embed
+    src="https://www.youtube.com/embed/wgbV6DLVezo"
+    wmode="transparent"
+    type="video/mp4"
+    width="100%" height="100%"
+    allow="autoplay; encrypted-media; picture-in-picture"
+    allowfullscreen
+    title="Keyboard Cat"
+  >
+</div>
 Теги - (посилання на теги та принципи тегування) [Taxonomi](https://docs.vmr.gov.ua/Administrators/Administrator_Manual/#68-taxonomy)
 
 Дата створення та редагування
