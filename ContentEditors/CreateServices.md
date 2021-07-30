@@ -36,7 +36,7 @@ DIV
 Object
 
 <object
-  style="width: 100%; height: auto; float: none; clear: both; margin: 2px auto;"
+  style=" position: absolute; width: 100%; height: auto; float: none; clear: both; margin: 2px auto;"
   data="https://www.youtube.com/embed/wgbV6DLVezo">
 </object>
 
