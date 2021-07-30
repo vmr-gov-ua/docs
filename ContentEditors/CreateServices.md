@@ -16,6 +16,7 @@
 
 
 Назва
+DIV
 
 <div style="width: 560px; height: 315px; float: none; clear: both; margin: 2px auto;">
   <embed
@@ -28,6 +29,14 @@
     title="Keyboard Cat"
   >
 </div>
+
+Object
+
+<object
+  style="width: 820px; height: 461.25px; float: none; clear: both; margin: 2px auto;"
+  data="https://www.youtube.com/embed/wgbV6DLVezo">
+</object>
+
 Теги - (посилання на теги та принципи тегування) [Taxonomi](https://docs.vmr.gov.ua/Administrators/Administrator_Manual/#68-taxonomy)
 
 Дата створення та редагування
