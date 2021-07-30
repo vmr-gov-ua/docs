@@ -10,11 +10,11 @@
 Сервіс складається з таких блоків:
 
 
+![alt](assets/media/123.jpg "AI")
+
+
+
 ![alt](assets/media/123.jpg "AI" =80x120)
-
-
-
-[alt](assets/media/123.jpg "AI" =80x120)
 
 
 Назва
