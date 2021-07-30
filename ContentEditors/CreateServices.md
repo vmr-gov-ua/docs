@@ -18,7 +18,7 @@
 Назва
 
 
-<div class="responsive-video"><iframe width="100%"  height= calc(width/1.77) src="https://www.youtube.com/embed/wgbV6DLVezo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="responsive-video"><iframe width="100%"  height= width src="https://www.youtube.com/embed/wgbV6DLVezo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 
 Теги - (посилання на теги та принципи тегування) [Taxonomi](https://docs.vmr.gov.ua/Administrators/Administrator_Manual/#68-taxonomy)
