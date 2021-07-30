@@ -5,16 +5,13 @@
 Сервіси - описані блоки інформації для задоволення потреб громадян.
 [Шаблон дизайну сервісу](https://projects.invisionapp.com/share/WFY7D2TXER5#/screens/432196262)
 
-![alt](assets/media/123.jpg)
+
+<div class="responsive-video"><iframe src="https://www.youtube.com/embed/wgbV6DLVezo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 
 Сервіс складається з таких блоків:
 
 
-![alt](assets/media/123.jpg "AI")
-
-
-
-![alt](assets/media/123.jpg "AI" =80x120)
 
 
 Назва
