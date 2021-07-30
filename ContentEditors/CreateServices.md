@@ -10,7 +10,7 @@
 <div class="responsive-video"><iframe width="100%" height=auto src="https://www.youtube.com/embed/wgbV6DLVezo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 
-
+<iframe width="1904" height= width*0.4831 src="https://www.youtube.com/embed/wgbV6DLVezo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 Назва
 DIV
 
