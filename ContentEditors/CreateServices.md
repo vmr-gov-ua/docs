@@ -5,8 +5,10 @@
 Сервіси - описані блоки інформації для задоволення потреб громадян.
 [Шаблон дизайну сервісу](https://projects.invisionapp.com/share/WFY7D2TXER5#/screens/432196262)
 
-Сервіс складається з таких блоків:
+![](assets/media/123.jpg)
 
+Сервіс складається з таких блоків:
+![](assets/media/123.jpg =80x120)
 Назва
 
 Теги - (посилання на теги та принципи тегування) [Taxonomi](https://docs.vmr.gov.ua/Administrators/Administrator_Manual/#68-taxonomy)
