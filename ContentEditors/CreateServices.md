@@ -23,8 +23,9 @@ DIV
 <div style="width: 100%; height: auto; float: none; clear: both; margin: 2px auto;">
   <embed
     src="https://www.youtube.com/embed/wgbV6DLVezo"
-    wmode="transparent"
+    wmode="transparent 
     type="video/mp4"
+    position="absolute"
     width="100%" height="100%"
     allow="autoplay; encrypted-media; picture-in-picture"
     allowfullscreen
