@@ -18,7 +18,7 @@
 Назва
 DIV
 
-<div style="width: 560px; height: 315px; float: none; clear: both; margin: 2px auto;">
+<div style="width: 100%; height: auto; float: none; clear: both; margin: 2px auto;">
   <embed
     src="https://www.youtube.com/embed/wgbV6DLVezo"
     wmode="transparent"
@@ -33,7 +33,7 @@ DIV
 Object
 
 <object
-  style="width: 820px; height: 461.25px; float: none; clear: both; margin: 2px auto;"
+  style="width: 100%; height: auto; float: none; clear: both; margin: 2px auto;"
   data="https://www.youtube.com/embed/wgbV6DLVezo">
 </object>
 
