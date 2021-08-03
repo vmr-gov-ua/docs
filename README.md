@@ -10,7 +10,7 @@
 
 Відповідно до інструкції відповідальні мають здійснювати наповнення нового сайту  [https://new.vmr.gov.ua](https://new.vmr.gov.ua)
 
-[https://drive.google.com/file/d/1uZKefK1yr1JgItzT6xLznXe-SF0di7HA/view?usp=sharing](Покрокова інструкція з налаштування нового паролю для редагування нового сайту міської ради)
+[Покрокова інструкція з налаштування нового паролю для редагування нового сайту міської ради] (https://drive.google.com/file/d/1uZKefK1yr1JgItzT6xLznXe-SF0di7HA/view?usp=sharing)
 
 Разом з цим, для пробного наповнення, вивчення функціоналу, тренування просимо використовувати [https://test1.vmr.gov.ua](https://test1.vmr.gov.ua)
 
