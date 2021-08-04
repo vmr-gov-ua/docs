@@ -4,5 +4,5 @@
 
 Перейти в адмінчастині до пункту меню Content Types - Список осіб:
 
-![](C:\Users\dchernenko\Desktop\Нова папка (20)\Нова папка (4))
+<img src="file:///C:\Users\dchernenko\Desktop\Нова папка (20)\Нова папка (4)" />
 
