@@ -8,5 +8,12 @@
 
 [![alt](https://s3.invisionapp-cdn.com/storage.invisionapp.com/screens/thumbnails/433496779.png?x-amz-meta-iv=3&amp;response-cache-control=max-age%3D2419200&amp;x-amz-meta-mdi=0&amp;x-amz-meta-ck=34086e81eaff231f9773c902d011effa&amp;AWSAccessKeyId=AKIAWCDCF6QSLTS7LRWT&amp;Expires=1630454400&amp;Signature=dCQNfrLTZAJ7vtOYlRGPZfcG63A%3D "Департамент")](https://projects.invisionapp.com/share/WFY7D2TXER5#/screens/433496779)
 
+# Заголовок
+
+В поле заголовок вноситься назва Департаменту.
+
+# Contact List
+
+
 
 Писати посилання на декларації
