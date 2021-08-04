@@ -4,5 +4,5 @@
 
 Перейти в адмінчастині до пункту меню Content Types - Список осіб:
 
-<img src="file:///C:\Users\dchernenko\Desktop\Нова папка (20)\Нова папка (4)" />
+![alt text](https://github.com/DinaChernenko/Dina1/blob/main/1.png)
 
