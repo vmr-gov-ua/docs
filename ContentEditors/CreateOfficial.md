@@ -6,3 +6,6 @@
 
 ![alt text](https://github.com/DinaChernenko/Dina1/blob/main/1.png)
 
+У вікні, що відкриється, перейти на Список посадових осіб
+
+![alt text](https://github.com/DinaChernenko/Dina1/blob/main/2.png)
