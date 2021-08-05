@@ -21,3 +21,20 @@
   style=" width: 100%; height: auto; float: none; clear: both; margin: 2px auto;"
   data="https://www.youtube.com/embed/wgbV6DLVezo">
 </object>
+
+
+
+> [!NOTE]
+> Information the user should notice even if skimming.
+
+> [!TIP]
+> Optional information to help a user be more successful.
+
+> [!IMPORTANT]
+> Essential information required for user success.
+
+> [!CAUTION]
+> Negative potential consequences of an action.
+
+> [!WARNING]
+> Dangerous certain consequences of an action.
