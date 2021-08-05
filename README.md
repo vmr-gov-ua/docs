@@ -14,6 +14,8 @@
 
 [Покрокова інструкція з налаштування нового паролю для редагування нового сайту міської ради](https://drive.google.com/file/d/1uZKefK1yr1JgItzT6xLznXe-SF0di7HA/view?usp=sharing)
 
+
+!!! note
 Пропозиції та зауваження надсилати у [формі](https://forms.gle/no5a82WQeeLBkDBd8)
 
 
