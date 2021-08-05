@@ -16,7 +16,7 @@
 
 
 !!! note
-Пропозиції та зауваження надсилати у [формі](https://forms.gle/no5a82WQeeLBkDBd8)
+   Пропозиції та зауваження надсилати у [формі](https://forms.gle/no5a82WQeeLBkDBd8)
 
 
 
