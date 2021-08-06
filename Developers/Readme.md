@@ -31,6 +31,10 @@
 	font-size:1.5em  
 }
 
+<i class="fas fa-laptop-code fontawesome-icon"></i><br>
+<i class="fas fa-puzzle-piece"></i><br>
+<i class="fab fa-github-alt fontawesome-icon"></i>
+
 <div class="admonitionblock admonitionblock-note"><i class="fas fa-info-circle"></i> <strong>Інформація:</strong> Використовуйте цю нотацію для повідомлення якої-небудь інформації. В нотації можна використовувати <a class="admonitionblock-link" href="#" target="_blank" title="Інформація">стилізовані посилання</a>.</div>
 <div class="admonitionblock admonitionblock-tip"><i class="fas fa-lightbulb"></i> <strong>Порада:</strong> Використовуйте цю нотацію для поради. В нотації можна використовувати <a class="admonitionblock-link" href="#" target="_blank" title="Порада">стилізовані посилання</a>.</div>
 <div class="admonitionblock admonitionblock-warning"><i class="fas fa-exclamation-triangle"></i> <strong>Увага:</strong> Використовуйте цю нотацію для привертання уваги. В нотації можна використовувати <a class="admonitionblock-link" href="#" target="_blank" title="Увага">стилізовані посилання</a>.</div>
