@@ -24,6 +24,16 @@
 {% endtip %}
 
 
+<div class="extension tip">
+<div>TIP</div>
+<div>
+<p>This is a standard tip.</p>
+</div>
+</div>
+
+
+
+
 
 > [!div class="op_single_selector"]
 > - [Universal Windows](../articles/notification-hubs-windows-store-dotnet-get-started/)
