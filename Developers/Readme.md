@@ -17,7 +17,11 @@
 > [!WARNING]
    Dangerous certain consequences of an action.
 
-
+<div class="admonitionblock admonitionblock-note"><i class="fas fa-info-circle"></i> <strong>Інформація:</strong> Використовуйте цю нотацію для повідомлення якої-небудь інформації. В нотації можна використовувати <a class="admonitionblock-link" href="#" target="_blank" title="Інформація">стилізовані посилання</a>.</div>
+<div class="admonitionblock admonitionblock-tip"><i class="fas fa-lightbulb"></i> <strong>Порада:</strong> Використовуйте цю нотацію для поради. В нотації можна використовувати <a class="admonitionblock-link" href="#" target="_blank" title="Порада">стилізовані посилання</a>.</div>
+<div class="admonitionblock admonitionblock-warning"><i class="fas fa-exclamation-triangle"></i> <strong>Увага:</strong> Використовуйте цю нотацію для привертання уваги. В нотації можна використовувати <a class="admonitionblock-link" href="#" target="_blank" title="Увага">стилізовані посилання</a>.</div>
+<div class="admonitionblock admonitionblock-caution"><i class="fas fa-fire"></i> <strong>Небезпека:</strong> Використовуйте цю нотацію, коли певні дії можуть стати причиною небезпеки. В нотації можна використовувати <a class="admonitionblock-link" href="#" target="_blank" title="Небезпека">стилізовані посилання</a>.</div>
+<div class="admonitionblock admonitionblock-important"><i class="fas fa-exclamation-circle"></i> <strong>Важливо:</strong> Використовуйте цю нотацію, коли необхідно вказати на важливі моменти. В нотації можна використовувати <a class="admonitionblock-link" href="#" target="_blank" title="Важливо">стилізовані посилання</a>.</div>
 
 {% tip %}
 
