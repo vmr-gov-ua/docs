@@ -1,20 +1,22 @@
 #Як вбудувати відео
+> [!TIP]
+> Optional information to help a user be more successful
 
-
-[!NOTE]
+> [!NOTE]
    Information the user should notice even if skimming.
 
-[!TIP]
+> [!TIP]
    Optional information to help a user be more successful.
 
-[!IMPORTANT]
+> [!IMPORTANT]
    Essential information required for user success.
 
-[!CAUTION]
+> [!CAUTION]
    Negative potential consequences of an action.
 
-[!WARNING]
+> [!WARNING]
    Dangerous certain consequences of an action.
+
 
 
 {% tip %}
