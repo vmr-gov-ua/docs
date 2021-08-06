@@ -17,6 +17,11 @@
    Dangerous certain consequences of an action.
 
 
+{% tip %}
+
+**Tip:** When viewing a conversation, you can automatically quote text in a comment by highlighting the text, then typing `r`. You can quote an entire comment by clicking {% octicon "kebab-horizontal" aria-label="The horizontal kebab icon" %}, then **Quote reply**. For more information about keyboard shortcuts, see "[Keyboard shortcuts](/articles/keyboard-shortcuts/)."
+
+{% endtip %}
 
 
 
