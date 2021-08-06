@@ -68,7 +68,7 @@
 
 ~~this~~
 
-[Contribution guidelines for this project](docs/CONTRIBUTING.md)
+[Contribution guidelines for this project](/docs/CONTRIBUTING.md)
 
 
 ds
