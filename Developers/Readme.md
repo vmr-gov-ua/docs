@@ -20,6 +20,16 @@
 <link rel="icon" type="image/svg+xml" href="https://image.flaticon.com/icons/svg/2038/2038433.svg"> 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/css/all.min.css" />  
 
+.fontawesome-icon {  
+	text-shadow: 1px 1px 1px #ccc;  
+	font-size:1.5em;  
+}  
+.fa-laptop-code,  
+.fa-puzzle-piece,  
+.fa-github-alt{  
+	color:#3C787E;  
+	font-size:1.5em  
+}
 
 <div class="admonitionblock admonitionblock-note"><i class="fas fa-info-circle"></i> <strong>Інформація:</strong> Використовуйте цю нотацію для повідомлення якої-небудь інформації. В нотації можна використовувати <a class="admonitionblock-link" href="#" target="_blank" title="Інформація">стилізовані посилання</a>.</div>
 <div class="admonitionblock admonitionblock-tip"><i class="fas fa-lightbulb"></i> <strong>Порада:</strong> Використовуйте цю нотацію для поради. В нотації можна використовувати <a class="admonitionblock-link" href="#" target="_blank" title="Порада">стилізовані посилання</a>.</div>
