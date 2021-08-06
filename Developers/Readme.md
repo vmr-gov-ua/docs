@@ -18,6 +18,7 @@
    Dangerous certain consequences of an action.
 <link  rel="icon" type="image/png"  href="https://bit.ly/3bxx23w">
 <link rel="icon" type="image/svg+xml" href="https://image.flaticon.com/icons/svg/2038/2038433.svg"> 
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/css/all.min.css" />  
 
 
 <div class="admonitionblock admonitionblock-note"><i class="fas fa-info-circle"></i> <strong>Інформація:</strong> Використовуйте цю нотацію для повідомлення якої-небудь інформації. В нотації можна використовувати <a class="admonitionblock-link" href="#" target="_blank" title="Інформація">стилізовані посилання</a>.</div>
