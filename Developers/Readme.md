@@ -34,7 +34,7 @@
 https://video.tv.adobe.com/v/29770/?quality=12
 Video
 
-<div class="extension video"><iframe allowfullscreen embedded-video src="https://www.youtube.com/embed/syrGPPekLHQ" style="position: absolute; top: 0; left: 0; width: 100%; height: auto"><source src="https://video.tv.adobe.com/v/29770/?quality=12" type="" /><p>Your browser does not support the iframe element.</p></iframe></div>
+<div class="extension video"><iframe allowfullscreen embedded-video src="https://www.youtube.com/embed/syrGPPekLHQ" style="top: 0; left: 0; width: 100%; height: auto"><source src="https://www.youtube.com/embed/syrGPPekLHQ" type="" /><p>Your browser does not support the iframe element.</p></iframe></div>
 
 
 End Video
