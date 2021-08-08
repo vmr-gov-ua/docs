@@ -2,7 +2,7 @@
 
 Для створення сторінки нової посадової особи, що повинна мати таку окрему сторіку (наприклад, директор департаменту) потрібно:
 
-Перейти в адмінчастину сайту за [посиланням https://new1.vmr.gov.ua/Admin/](https://new1.vmr.gov.ua/Admin/)
+Перейти в адмінчастину сайту за [посиланням https://new.vmr.gov.ua/Admin/](https://new.vmr.gov.ua/Admin/)
 
 &nbsp;
 Працювати зі сторінкою за [інструкцією](https://docs.vmr.gov.ua/ContentEditors/ContentEditor_Manual/#_31)
