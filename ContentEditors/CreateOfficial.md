@@ -11,7 +11,7 @@
 Перейти в адмінчастину сайту за [посиланням https://new.vmr.gov.ua/Admin/](https://new.vmr.gov.ua/Admin/)
 
 &nbsp;
-Працювати зі сторінкою за [інструкцією](https://docs.vmr.gov.ua/ContentEditors/ContentEditor_Manual/#_31)
+Працювати зі сторінкою за інструкцією [за цим посиланням](https://docs.vmr.gov.ua/ContentEditors/ContentEditor_Manual/#_31) або унизу сторінки.
 
 &nbsp;
 Для зручної роботи можна скористатися шаблоном:
