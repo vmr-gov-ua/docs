@@ -4,6 +4,16 @@
 
 Загальні вимоги до контенту - (посилання на опис)
 
+&nbsp;
+Для зручної роботи можна скористатися шаблоном:
+
+- знайти в списку посадових осіб Шаблон Посадової Особи;
+- клонувати його: праворуч від назви кнопка "Actions"-"Clone"
+- змінити вміст поля Permalink на транлітеровані ПІБ посадової особи у форматі "prizvyshche-imia-pobatkovi"
+- змінити Прізвище, Ім'я, По батькові особи у картці
+- Опублікувати зміни (кнопка Publish унизу)
+- Зайти в картку, що називається іменем створеної вами Посадової особи і редагувати її поля, відповідно замінюючи вміст на власний. 
+
 Вигляд дизайну сторінки департаменту розроблений дизайнером:
 
 [![alt](https://s3.invisionapp-cdn.com/storage.invisionapp.com/screens/thumbnails/433496779.png?x-amz-meta-iv=3&amp;response-cache-control=max-age%3D2419200&amp;x-amz-meta-mdi=0&amp;x-amz-meta-ck=34086e81eaff231f9773c902d011effa&amp;AWSAccessKeyId=AKIAWCDCF6QSLTS7LRWT&amp;Expires=1630454400&amp;Signature=dCQNfrLTZAJ7vtOYlRGPZfcG63A%3D "Департамент")](https://projects.invisionapp.com/share/WFY7D2TXER5#/screens/433496779)
