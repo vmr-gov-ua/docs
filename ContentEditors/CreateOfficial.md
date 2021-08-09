@@ -2,6 +2,7 @@
 
 
 Подивитися макет дизайнера: 
+
 [<img ng-src="https://s3.invisionapp-cdn.com/storage.invisionapp.com/screens/thumbnails/430721637.png?x-amz-meta-iv=6&amp;response-cache-control=max-age%3D2419200&amp;x-amz-meta-mdi=0&amp;x-amz-meta-ck=34086e81eaff231f9773c902d011effa&amp;AWSAccessKeyId=AKIAWCDCF6QSLTS7LRWT&amp;Expires=1630454400&amp;Signature=OL0JuTlO6cXS5JkLaLjwpwLGflw%3D" src="https://s3.invisionapp-cdn.com/storage.invisionapp.com/screens/thumbnails/430721637.png?x-amz-meta-iv=6&amp;response-cache-control=max-age%3D2419200&amp;x-amz-meta-mdi=0&amp;x-amz-meta-ck=34086e81eaff231f9773c902d011effa&amp;AWSAccessKeyId=AKIAWCDCF6QSLTS7LRWT&amp;Expires=1630454400&amp;Signature=OL0JuTlO6cXS5JkLaLjwpwLGflw%3D">](https://projects.invisionapp.com/share/WFY7D2TXER5#/screens/430677454)
 
 &nbsp;
