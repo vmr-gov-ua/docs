@@ -8,7 +8,7 @@
 [Редакторів (контент-менеджерів)](https://docs.vmr.gov.ua/ContentEditors/ContentEditor_Manual)**
 
 
-Відповідно до інструкції відповідальні мають здійснювати наповнення нового сайту  [https://new.vmr.gov.ua](https://new.vmr.gov.ua)
+Відповідно до інструкції відповідальні мають здійснювати наповнення нового сайту  [https://new.vmr.gov.ua](https://www.vmr.gov.ua)
 
 Разом з цим, для пробного наповнення, вивчення функціоналу, тренування просимо використовувати [https://test1.vmr.gov.ua](https://test1.vmr.gov.ua)
 
