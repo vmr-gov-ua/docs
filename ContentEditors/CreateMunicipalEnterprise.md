@@ -52,9 +52,9 @@
 
 *Рисунок 24 - Редагування сторінки КП.*
 
-Загальні принципі роботи елементів управління сторінкою описані в інструкції за [посиланням](https://docs.vmr.gov.ua/ContentEditors/ContentEditor_Manual/#_5).
+### Принципи роботи елементів управління сторінкою описані в інструкції за [посиланням](https://docs.vmr.gov.ua/ContentEditors/ContentEditor_Manual/#_5).
 
-Вимоги до наповнення сторінки різними типами контенту описані за [посиланням](https://docs.vmr.gov.ua/ContentEditors/ContentEditor_Manual/#_14).
+### Вимоги до наповнення сторінки різними типами контенту описані за [посиланням](https://docs.vmr.gov.ua/ContentEditors/ContentEditor_Manual/#_14).
 
 Після завершення редагування потрібно опублікувати сторінку, натиснувши кнопку 
 «![](assets/media/image85.png)».
