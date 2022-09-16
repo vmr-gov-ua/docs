@@ -26,7 +26,7 @@
 > 
 > **Далі редагувати Ваше підприємство, змінюючи дані шаблону на дані Вашого підприємства**
 > 
-> **[Інструкція для роботи зі сторінками Комунальних підприємств)](https://docs.vmr.gov.ua/ContentEditors/CreateMunicipalEnterprise/)**
+> **[Інструкція для роботи зі сторінками Комунальних підприємств](https://docs.vmr.gov.ua/ContentEditors/CreateMunicipalEnterprise/)**
 >
 &nbsp;
 >
