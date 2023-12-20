@@ -8,14 +8,14 @@
 > 
 > Багато популярних сервісів таких як Google, Microsoft та інші підтримують Authenticator або подібні програми для забезпечення додаткового захисту облікового запису.
 
-## Встановлення застосунку Authenticator
+## Встановлення застосунку Authenticator.
 
 Якщо про вході до адмін. панелі офіційного сайту ВМР ви побачили повідомлення "Потрібні додаткові відомості", вам потрібно встановити програму-автентифікатор (Google Authenticator або Microsoft Authenticator) для забезпечення додаткового рівня безпеки для вашого облікового запису
 
 <img src="https://raw.githubusercontent.com/vmr-gov-ua/docs/master/ContentEditors/assets/media/Authenticator%20(1).png" width="370" height="350">
+>  Натиснути кнопку "Далі".
 
-### Автентифікація за допомогою застосунку 
- Google Authenticator <img src="https://raw.githubusercontent.com/vmr-gov-ua/docs/master/ContentEditors/assets/media/Google-Play.png" alt="Google Play" width="40" height="40">
+## Google Authenticator <img src="https://raw.githubusercontent.com/vmr-gov-ua/docs/master/ContentEditors/assets/media/Google-Play.png" alt="Google Play" width="40" height="40">
 
 1. На свій мобільний пристрій потрібно завантажити та встановити застосунок Google Authenticator (доступно для iOS і Android). Скористайтеся QR кодами для завантаження:
 
@@ -24,3 +24,6 @@
   <span style="width: 20px; display: inline-block;"></span>
   <img src="https://raw.githubusercontent.com/vmr-gov-ua/docs/master/ContentEditors/assets/media/qrcode_apple.png"  width="150" height="150">
 </div>
+
+2. 
+https://raw.githubusercontent.com/vmr-gov-ua/docs/master/ContentEditors/assets/media/Authenticator2.png
