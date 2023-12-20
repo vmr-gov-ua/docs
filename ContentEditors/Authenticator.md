@@ -16,10 +16,10 @@
 
 1. На свій мобільний пристрій потрібно завантажити та встановити застосунок Google Authenticator (доступно для iOS і Android). Скористайтеся QR кодами для завантаження:
 
-<img src="https://raw.githubusercontent.com/vmr-gov-ua/docs/master/ContentEditors/assets/media/qrcode_Android.png" alt="Google Play" width="150" height="150"> <img src="https://raw.githubusercontent.com/vmr-gov-ua/docs/master/ContentEditors/assets/media/qrcode_apple.png" alt="App Store" width="150" height="150">
+<img src="https://raw.githubusercontent.com/vmr-gov-ua/docs/master/ContentEditors/assets/media/qrcode_Android.png" width="150" height="150"> <img src="https://raw.githubusercontent.com/vmr-gov-ua/docs/master/ContentEditors/assets/media/qrcode_apple.png" width="150" height="150">
 
 <div>
-  <img src="https://raw.githubusercontent.com/vmr-gov-ua/docs/master/ContentEditors/assets/media/qrcode_Android.png" alt="Google Play" width="150" height="150">
+  <img src="https://raw.githubusercontent.com/vmr-gov-ua/docs/master/ContentEditors/assets/media/qrcode_Android.png" width="150" height="150">
   <span style="width: 20px; display: inline-block;"></span>
-  <img src="https://raw.githubusercontent.com/vmr-gov-ua/docs/master/ContentEditors/assets/media/qrcode_apple.png" alt="App Store" width="150" height="150">
+  <img src="https://raw.githubusercontent.com/vmr-gov-ua/docs/master/ContentEditors/assets/media/qrcode_apple.png"  width="150" height="150">
 </div>
