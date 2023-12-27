@@ -20,10 +20,19 @@
 1. На свій мобільний пристрій потрібно завантажити та встановити застосунок Google Authenticator (доступно для iOS і Android). Скористайтеся QR кодами для завантаження:
 
 <div>
-  <img src="https://raw.githubusercontent.com/vmr-gov-ua/docs/master/ContentEditors/assets/media/qrcode_Android.png" width="150" height="150">
+  <img src="https://raw.githubusercontent.com/vmr-gov-ua/docs/master/ContentEditors/assets/media/qr-code%20(3).png" width="150" height="150">
   <span style="width: 20px; display: inline-block;"></span>
-  <img src="https://raw.githubusercontent.com/vmr-gov-ua/docs/master/ContentEditors/assets/media/qrcode_apple.png"  width="150" height="150">
+  <img src="https://raw.githubusercontent.com/vmr-gov-ua/docs/master/ContentEditors/assets/media/qr-code%20(2).png"  width="150" height="150">
 </div>
 
-2. 
-https://raw.githubusercontent.com/vmr-gov-ua/docs/master/ContentEditors/assets/media/Authenticator2.png
+2. Після того як на телефон встановлено додаток Google Authenticator, потрібно на комп'юетрі у своєму браузері натиснути кнопку "Я хочу використовувати іншу програму-автентифікатор" та кнопку "Далі" :
+<img src="https://raw.githubusercontent.com/vmr-gov-ua/docs/master/ContentEditors/assets/media/Authenticator2.png" width="570" height="350">
+
+3. Натиснути кнопку "Далі"
+<img src="https://raw.githubusercontent.com/vmr-gov-ua/docs/master/ContentEditors/assets/media/Authenticator%207.png" width="570" height="350">
+
+4. Вам буде показаний QR-код, який потрібно відсканувати за допомогою камери в додатку Google Authenticator на своєму пристрої
+<img src="https://raw.githubusercontent.com/vmr-gov-ua/docs/master/ContentEditors/assets/media/Authenticator%208.png" width="570" height="350"> 
+
+5. 
+6. Google Authenticator почне генерувати одноразові шестизначні коди кожні 30 секунд. При вході на сайт введіть поточний одноразовий код, що відображається в Google Authenticator.
