@@ -26,6 +26,7 @@
 </div>
 
 2) Після того як на телефон встановлено додаток Google Authenticator, потрібно на комп'ютері у своєму браузері натиснути кнопку "Я хочу використовувати іншу програму-автентифікатор":
+
 <img src="https://raw.githubusercontent.com/vmr-gov-ua/docs/master/ContentEditors/assets/media/Authenticator2.png" width="570" height="350">
 
 3) Натиснути кнопку "Далі"
