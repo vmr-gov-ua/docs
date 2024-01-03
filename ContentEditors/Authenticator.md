@@ -32,7 +32,8 @@
 <img src="https://raw.githubusercontent.com/vmr-gov-ua/docs/master/ContentEditors/assets/media/Authenticator%207.png" width="570" height="350">
 
 4. Вам буде показаний QR-код, який потрібно відсканувати за допомогою камери в додатку Google Authenticator на своєму пристрої
-<img src="https://raw.githubusercontent.com/vmr-gov-ua/docs/master/ContentEditors/assets/media/Authenticator%208.png" width="570" height="350"> 
+<img src="https://raw.githubusercontent.com/vmr-gov-ua/docs/master/ContentEditors/assets/media/Authenticator%20(8).png" width="700" height="350"> 
 
-5. 
-6. Google Authenticator почне генерувати одноразові шестизначні коди кожні 30 секунд. При вході на сайт введіть поточний одноразовий код, що відображається в Google Authenticator.
+5. Google Authenticator почне генерувати одноразові шестизначні коди кожні 30 секунд. При вході на сайт введіть поточний одноразовий код, що відображається в Google Authenticator.
+
+   
