@@ -10,7 +10,7 @@
 
 ## Встановлення застосунку Authenticator.
 
-Якщо про вході до адмін. панелі офіційного сайту ВМР ви побачили повідомлення "Потрібні додаткові відомості", вам потрібно встановити програму-автентифікатор (Google Authenticator або Microsoft Authenticator) для забезпечення додаткового рівня безпеки для вашого облікового запису
+Якщо про вході до адмін. панелі офіційного сайту ВМР відображається повідомлення "Потрібні додаткові відомості" - вам потрібно встановити програму-автентифікатор (Google Authenticator або Microsoft Authenticator) для забезпечення додаткового рівня безпеки для вашого облікового запису
 
 <img src="https://raw.githubusercontent.com/vmr-gov-ua/docs/master/ContentEditors/assets/media/Authenticator%20(1).png" width="400" height="350">
 >  Натиснути кнопку "Далі".
@@ -24,7 +24,7 @@
     <span style="width: 20px; display: inline-block;"></span>
     <img src="https://raw.githubusercontent.com/vmr-gov-ua/docs/master/ContentEditors/assets/media/qr-code%20(2).png"  width="150" height="150">
 </div>
-2. Після того як на телефон встановлено додаток Google Authenticator, потрібно на комп'юетрі у своєму браузері натиснути кнопку "Я хочу використовувати іншу програму-автентифікатор" та кнопку "Далі" :
+2. Після того як на телефон встановлено додаток Google Authenticator, потрібно на комп'ютері у своєму браузері натиснути кнопку "Я хочу використовувати іншу програму-автентифікатор":
 <img src="https://raw.githubusercontent.com/vmr-gov-ua/docs/master/ContentEditors/assets/media/Authenticator2.png" width="570" height="350">
 3. Натиснути кнопку "Далі"
 <img src="https://raw.githubusercontent.com/vmr-gov-ua/docs/master/ContentEditors/assets/media/Authenticator%207.png" width="590" height="340">
