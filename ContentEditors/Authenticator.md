@@ -19,11 +19,12 @@
 
 1. На свій мобільний пристрій потрібно завантажити та встановити застосунок Google Authenticator (доступно для iOS і Android). Скористайтеся QR кодами для завантаження:
 
-<div>
-  <img src="https://raw.githubusercontent.com/vmr-gov-ua/docs/master/ContentEditors/assets/media/qr-code%20(3).png" width="150" height="150">
-  <span style="width: 20px; display: inline-block;"></span>
-  <img src="https://raw.githubusercontent.com/vmr-gov-ua/docs/master/ContentEditors/assets/media/qr-code%20(2).png"  width="150" height="150">
-</div>
+  <div>
+    <span style="width: 40px; display: inline-block;"></span>
+    <img src="https://raw.githubusercontent.com/vmr-gov-ua/docs/master/ContentEditors/assets/media/qr-code%20(3).png" width="150" height="150">
+    <span style="width: 20px; display: inline-block;"></span>
+    <img src="https://raw.githubusercontent.com/vmr-gov-ua/docs/master/ContentEditors/assets/media/qr-code%20(2).png"  width="150" height="150">
+  </div>
 
 2. Після того як на телефон встановлено додаток Google Authenticator, потрібно на комп'юетрі у своєму браузері натиснути кнопку "Я хочу використовувати іншу програму-автентифікатор" та кнопку "Далі" :
 <img src="https://raw.githubusercontent.com/vmr-gov-ua/docs/master/ContentEditors/assets/media/Authenticator2.png" width="570" height="350">
