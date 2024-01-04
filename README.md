@@ -8,7 +8,7 @@
 [Редакторів (контент-менеджерів)](https://docs.vmr.gov.ua/ContentEditors/ContentEditor_Manual)**
 
 Інструкція про встановлення застосунку Authenticator для редакторів сайту ВМР: 
-https://docs.vmr.gov.ua/ContentEditors/Authenticator/ 
+[https://docs.vmr.gov.ua/ContentEditors/Authenticator/](https://docs.vmr.gov.ua/ContentEditors/Authenticator/) 
 
 Відповідно до інструкції відповідальні мають здійснювати наповнення нового сайту  [https://www.vmr.gov.ua](https://www.vmr.gov.ua)
 
