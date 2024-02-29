@@ -113,10 +113,10 @@
 ![](assets/media/Link1.jpg) 
 
 Наприклад, текст 
-«Реєстрація відкрита за посиланням [https://forms.gle/9RLkkRPZ23SX9Db58](https://forms.gle/9RLkkRPZ23SX9Db58)" має неправильне представлення.
+"Реєстрація відкрита за посиланням [https://forms.gle/9RLkkRPZ23SX9Db58](https://forms.gle/9RLkkRPZ23SX9Db58)" має неправильне представлення.
 
 Правильне представлення повинно виглядати так:
-[«Реєстрація відкрита за посиланням»](https://forms.gle/9RLkkRPZ23SX9Db58) 
+["Реєстрація відкрита за посиланням"](https://forms.gle/9RLkkRPZ23SX9Db58) 
 або 
 Реєстрація відкрита за посиланням: [Форма реєстрації](https://forms.gle/9RLkkRPZ23SX9Db58) 
   
